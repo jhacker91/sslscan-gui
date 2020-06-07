@@ -1,4 +1,10 @@
-# SSLSCAN
+# SSLSCAN - GUI
+
+# WINDOWS VERSION
+
+Execute .exe file
+
+# PYTHON VERSION
 
 Sslscan allow you to perform a certificates analysis on a target domain. There are 2 way to use the software :
 
