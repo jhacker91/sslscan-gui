@@ -36,10 +36,10 @@ Use only to scan your Server. Scanning other servers whitout authorization is a 
 ## Images
 
 <img src="ph/Schermata 2020-06-06 alle 18.13.11.png" width="550" height="380">
-<img src="ph/1.png" width="550" height="380">
-<img src="ph/2.png" width="550" height="380">
-<img src="ph/ex1.png" width="550" height="380">
-<img src="ph/ex2.png" width="550" height="380">
-<img src="ph/ex3.png" width="550" height="380">
-<img src="ph/js.png" width="550" height="380">
+<img src="ph/Schermata 2020-06-07 alle 19.41.15.png" width="550" height="380">
+<img src="ph/Schermata 2020-06-07 alle 19.41.22.png" width="550" height="380">
+<img src="ph/Schermata 2020-06-07 alle 19.41.30.png" width="550" height="380">
+<img src="ph/Schermata 2020-06-07 alle 19.41.38.png" width="550" height="380">
+<img src="ph/Schermata 2020-06-07 alle 19.42.46.png" width="550" height="380">
+<img src="ph/Schermata 2020-06-07 alle 19.43.08.png" width="550" height="380">
 
