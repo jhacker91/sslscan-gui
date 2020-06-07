@@ -35,11 +35,16 @@ Use only to scan your Server. Scanning other servers whitout authorization is a 
 
 ## Images
 
-<img src="ph/Schermata 2020-06-06 alle 18.13.11.png" width="550" height="380">
+Schermata Home
 <img src="ph/Schermata 2020-06-07 alle 19.41.15.png" width="550" height="380">
+Scansione Host Singolo. Bisogna inserire il nome dell'host da scansionare
 <img src="ph/Schermata 2020-06-07 alle 19.41.22.png" width="550" height="380">
+Scansione lista di host. Bisogna inserire un file .txt come nel file d'esempio (1 host per riga)
 <img src="ph/Schermata 2020-06-07 alle 19.41.30.png" width="550" height="380">
+Analisi host. Se si ha un file json già pronto si può ripere l'analisi per generare un excel
 <img src="ph/Schermata 2020-06-07 alle 19.41.38.png" width="550" height="380">
+Esempio di scansione lista
 <img src="ph/Schermata 2020-06-07 alle 19.42.46.png" width="550" height="380">
+Possibilità di salvare i risultati (compreso gli errori generati)
 <img src="ph/Schermata 2020-06-07 alle 19.43.08.png" width="550" height="380">
 
