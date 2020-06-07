@@ -33,6 +33,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## NB
 Use only to scan your Server. Scanning other servers whitout authorization is a crime.
 
-<img src="images/ex3.png" width="550" height="380">
-<img src="images/js.png" width="550" height="380">
+## Images
+
+<img src="ph/op.png" width="550" height="380">
+<img src="ph/1.png" width="550" height="380">
+<img src="ph/2.png" width="550" height="380">
+<img src="ph/ex1.png" width="550" height="380">
+<img src="ph/ex2.png" width="550" height="380">
+<img src="ph/ex3.png" width="550" height="380">
+<img src="ph/js.png" width="550" height="380">
 
