@@ -1,5 +1,9 @@
 # SSLSCAN - GUI
 
+# MAC VERSION
+
+https://drive.google.com/drive/folders/14nNtMLUe_Rv7aLaUFstUEbWSh70kmtwR?usp=sharing
+
 # WINDOWS VERSION
 
 Execute .exe file
